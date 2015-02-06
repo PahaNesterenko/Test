@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="MyOwnBackbone:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="laba22_backbone.war">
-      <element id="artifact" artifact-name="MyOwnBackbone:war exploded" />
-    </root>
-  </artifact>
-</component>
